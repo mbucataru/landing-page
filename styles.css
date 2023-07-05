@@ -1,0 +1,28 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.header
+{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+}
+
+
+
+
+.footer, .header, .site-info
+{
+    background-color: #1F2937;
+}
+
+.quote
+{
+    background-color: #E5E7EB;
+}
+
